@@ -6,10 +6,10 @@ Los ejercicios se tienen que llamar así: NombreApellido-Título.
 
 Por ejemplo, para estos ejercicios, nómbralos así:
 
-1. Alejandro Gomez-Suma de dos números
-2. Alejandro Gómez - Mayor de edad
-3. Alejandro Gómez - Descuento de la tienda
-4. Alejandro Gómez - Conversor de temperatura
+1. `Alejandro Gomez - Suma de dos números`
+2. `Alejandro Gómez - Mayor de edad`
+3. `Alejandro Gómez - Descuento de la tienda`
+4. `Alejandro Gómez - Conversor de temperatura`
 
 ## Ejercicio 1 · Suma de dos números
 

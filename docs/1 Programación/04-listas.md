@@ -29,8 +29,11 @@ len(compra)                        # 3 (cuántos elementos hay)
 Para recorrer una lista con número de orden:
 
 ```python
+texto = ""
 for i, producto in enumerate(compra):
   texto += f"{i+1}. {producto}\n"
+
+# Ya puedes usar `texto` para ponerlo en un text area, por ejemplo.
 ```
 
 ## 2. Listas en Anvil
