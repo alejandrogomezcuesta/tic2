@@ -1,11 +1,11 @@
-# Sesion 30 - 26/01/2027
+# Sesión 30 - 26/01/2027
 
-**Unidad:** T3, depuracion. **Saberes:** TICO.2.A.3.6. **Criterio:** 5.3.
+**Unidad:** T3, depuración. **Saberes:** TICO.2.A.3.6. **Criterio:** 5.3.
 
-## Teoria breve
-Depurar es localizar la causa de un fallo y comprobar la correccion. Se distinguen errores de sintaxis, ejecucion y logica. Un breakpoint permite inspeccionar el estado paso a paso.
+## Teoría breve
+Depurar es localizar la causa de un fallo y comprobar la correccion. Se distinguen errores de sintaxis, ejecución y logica. Un breakpoint permite inspeccionar el estádo paso a paso.
 
-**Enlace original:** [Tema 3, 3.5](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-3-diseno-de-software-y-resolucion-de-problemas/#35-depuracion)
+**Enlace original:** [Tema 3, 3.5](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-3-diseño-de-software-y-resolución-de-problemas/#35-depuración)
 
 ## Desarrollo de 60 minutos
 - 0-10: clasificar errores en pequenos programas.
@@ -17,4 +17,4 @@ Depurar es localizar la causa de un fallo y comprobar la correccion. Se distingu
 ## Tarea
 Corregir un programa entregado por el profesor y documentar cada bug: sintoma, causa, prueba y solucion.
 
-**Evidencia:** informe de depuracion. **Apoyo:** pistas progresivas. **Ampliacion:** anadir una prueba automatizada.
+**Evidencia:** informe de depuración. **Apoyo:** pistas progresivas. **Ampliación:** añadir una prueba automatizada.

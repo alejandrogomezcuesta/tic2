@@ -1,11 +1,11 @@
-# Sesion 28 - 19/01/2027
+# Sesión 28 - 19/01/2027
 
 **Unidad:** T3, algoritmos y eficiencia. **Saberes:** TICO.2.A.3.4. **Criterio:** 5.3.
 
-## Teoria breve
+## Teoría breve
 Un algoritmo debe terminar, ser correcto y usar recursos razonables. Comparar todos los pares suele crecer cuadraticamente; recorrer una vez suele crecer linealmente. Se introduce la idea intuitiva de complejidad.
 
-**Enlace original:** [Tema 3, 3.3](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-3-diseno-de-software-y-resolucion-de-problemas/#33-algoritmos)
+**Enlace original:** [Tema 3, 3.3](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-3-diseño-de-software-y-resolución-de-problemas/#33-algoritmos)
 
 ## Desarrollo de 60 minutos
 - 0-10: estimar comparaciones para listas de 5 y 100 elementos.
@@ -15,6 +15,6 @@ Un algoritmo debe terminar, ser correcto y usar recursos razonables. Comparar to
 - 55-60: distinguir correccion de eficiencia.
 
 ## Tarea
-Comparar dos soluciones para buscar un elemento o hallar maximo. Incluir codigo, tabla de tamanos y conclusion sin afirmar tiempos universales.
+Comparar dos soluciones para buscar un elemento o hallar maximo. Incluir código, tabla de tamaños y conclusion sin afirmar tiempos universales.
 
-**Evidencia:** experimento. **Apoyo:** contador de operaciones. **Ampliacion:** investigar busqueda binaria con lista ordenada.
+**Evidencia:** experimento. **Apoyo:** contador de operaciónes. **Ampliación:** investigar busqueda binaria con lista ordenada.

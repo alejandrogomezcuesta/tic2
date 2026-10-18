@@ -1,8 +1,8 @@
-# Sesion 44 - 29/03/2027
+# Sesión 44 - 29/03/2027
 
 **Unidad:** T5, integracion y entrega web. **Saberes:** TICO.2.B.1. **Criterio:** 3.1.
 
-## Teoria breve
+## Teoría breve
 Una web completa integra HTML semantico, CSS, JavaScript, accesibilidad, multimedia, SEO y una estrategia de medicion. La entrega debe incluir archivos, fuentes, licencia y pruebas.
 
 **Enlace original:** [Tema 5](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-5-la-web/)
@@ -17,4 +17,4 @@ Una web completa integra HTML semantico, CSS, JavaScript, accesibilidad, multime
 ## Tarea
 Entregar carpeta web con README, fuentes, licencia, capturas de pruebas y reflexion de accesibilidad.
 
-**Evidencia:** sitio local y dossier. **Apoyo:** checklist. **Ampliacion:** publicar solo en entorno autorizado por el centro.
+**Evidencia:** sitio local y dossier. **Apoyo:** checklist. **Ampliación:** publicar solo en entorno autorizado por el centro.

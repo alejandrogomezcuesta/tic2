@@ -1,13 +1,13 @@
-# Sesion 11 - 03/11/2026
+# Sesión 11 - 03/11/2026
 
 **Unidad:** T1, ficheros de texto. **Saberes:** TICO.2.A.1.6. **Criterio:** 5.1.
 
-## Teoria breve
-Los ficheros permiten conservar datos entre ejecuciones. `open` trabaja en modos lectura, escritura y anadir. `with ... as` cierra automaticamente el recurso y evita perdidas por descuido.
+## Teoría breve
+Los ficheros permiten conservar datos entre ejecuciónes. `open` trabaja en modos lectura, escritura y añadir. `with ... as` cierra automaticamente el recurso y evita perdidas por descuido.
 
 **Enlace original:** [Tema 1, 1.6](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-1-programacion/#16-manipulacion-de-archivos)
 
-## Ejemplo guiado
+## Ejemplo guíado
 ```python
 with open("notas.txt", "a", encoding="utf-8") as fichero:
     fichero.write("Nueva linea\n")
@@ -23,4 +23,4 @@ with open("notas.txt", "a", encoding="utf-8") as fichero:
 ## Tarea
 Crear `misgrupos.py`: pedir nombres hasta escribir `salir`, guardarlos numerados en `misgrupos.txt` y mostrar el contenido al final. Usar `with` y UTF-8.
 
-**Evidencia:** programa y fichero generado. **Apoyo:** ejemplo de escritura. **Ampliacion:** impedir duplicados leyendo el fichero.
+**Evidencia:** programa y fichero generado. **Apoyo:** ejemplo de escritura. **Ampliación:** impedir duplicados leyendo el fichero.

@@ -1,11 +1,11 @@
-# Sesion 25 - 11/01/2027
+# Sesión 25 - 11/01/2027
 
 **Unidad:** T3, enfoque top-down. **Saberes:** TICO.2.A.3.1. **Criterio:** 5.3.
 
-## Teoria breve
+## Teoría breve
 Top-down parte de la vision global y desciende a componentes y tareas. La fragmentacion reduce complejidad y permite asignar responsabilidades.
 
-**Enlace original:** [Tema 3, 3.1](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-3-diseno-de-software-y-resolucion-de-problemas/#31-enfoque-topdown)
+**Enlace original:** [Tema 3, 3.1](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-3-diseño-de-software-y-resolución-de-problemas/#31-enfoque-topdown)
 
 ## Desarrollo de 60 minutos
 - 0-8: descomponer una receta en niveles.
@@ -17,4 +17,4 @@ Top-down parte de la vision global y desciende a componentes y tareas. La fragme
 ## Tarea
 Arbol de tres niveles para un sistema elegido, con minimo 15 tareas y responsables ficticios.
 
-**Evidencia:** arbol. **Apoyo:** ejemplo parcialmente resuelto. **Ampliacion:** relacionar cada hoja con un requisito.
+**Evidencia:** arbol. **Apoyo:** ejemplo parcialmente resuelto. **Ampliación:** relacionar cada hoja con un requisito.

@@ -1,8 +1,8 @@
-# Sesion 47 - 06/04/2027
+# Sesión 47 - 06/04/2027
 
 **Unidad:** T6, produccion de podcast. **Saberes:** TICO.2.B.2.4. **Criterio:** 4.1.
 
-## Teoria breve
+## Teoría breve
 Un podcast necesita audiencia, tema, formato, guion, grabacion, edicion, licencia y difusion. Audacity permite cortar, normalizar y mezclar; la voz debe ser clara y el contenido respetuoso.
 
 **Enlace original:** [Tema 6, 6.4](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-6-trabajo-colaborativo/#64-produccion-de-contenidosnbsp)
@@ -17,4 +17,4 @@ Un podcast necesita audiencia, tema, formato, guion, grabacion, edicion, licenci
 ## Tarea
 Guion y piloto de 2-3 minutos sobre un concepto TIC. No incluir voces de personas sin consentimiento.
 
-**Evidencia:** audio, guion y creditos. **Apoyo:** escaleta. **Ampliacion:** añadir cortinilla con licencia compatible.
+**Evidencia:** audio, guion y creditos. **Apoyo:** escaleta. **Ampliación:** añadir cortinilla con licencia compatible.

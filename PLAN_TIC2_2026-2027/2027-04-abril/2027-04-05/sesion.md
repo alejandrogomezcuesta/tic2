@@ -1,8 +1,8 @@
-# Sesion 46 - 05/04/2027
+# Sesión 46 - 05/04/2027
 
-**Unidad:** T6, comunicacion y repositorios. **Saberes:** TICO.2.B.2.2-2.3. **Criterio:** 4.1.
+**Unidad:** T6, comúnicacion y repositorios. **Saberes:** TICO.2.B.2.2-2.3. **Criterio:** 4.1.
 
-## Teoria breve
+## Teoría breve
 Chat, videoconferencia, foro y correo tienen ritmos y registros diferentes. Un repositorio debe tener estructura, permisos, nombres, versiones y copias. Compartir no significa hacer publico.
 
 **Enlace original:** [Tema 6, 6.2-6.3](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-6-trabajo-colaborativo/#63-repositorios-de-archivos)
@@ -17,4 +17,4 @@ Chat, videoconferencia, foro y correo tienen ritmos y registros diferentes. Un r
 ## Tarea
 Mapa del flujo de archivos: crear, revisar, aprobar, archivar y recuperar. Incluir permisos y responsable.
 
-**Evidencia:** estructura y protocolo. **Apoyo:** ejemplo de arbol. **Ampliacion:** control de versiones con Git.
+**Evidencia:** estructura y protocolo. **Apoyo:** ejemplo de arbol. **Ampliación:** control de versiones con Git.

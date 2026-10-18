@@ -1,9 +1,9 @@
-# Sesion 33 - 08/02/2027
+# Sesión 33 - 08/02/2027
 
 **Unidad:** T4, emprendimiento y empleo. **Saberes:** TICO.2.A.4.4. **Criterio:** 1.1.
 
-## Teoria breve
-Un emprendimiento parte de un problema y valida una propuesta de valor. El MVP prueba la hipotesis con poco coste. El sector necesita perfiles tecnicos y no tecnicos, aprendizaje continuo y etica profesional.
+## Teoría breve
+Un emprendimiento parte de un problema y valida una propuesta de valor. El MVP prueba la hipotesis con poco coste. El sector necesita perfiles técnicos y no técnicos, aprendizaje continuo y ética profesional.
 
 **Enlace original:** [Tema 4, 4.4](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-4-la-industria-del-desarrollo-de-software/#44-emprendimiento-y-oportunidades-de-empleo)
 
@@ -17,4 +17,4 @@ Un emprendimiento parte de un problema y valida una propuesta de valor. El MVP p
 ## Tarea
 Canvas de una idea tecnologica: problema, usuarios, solucion, MVP, recursos, indicador y riesgo etico.
 
-**Evidencia:** canvas y pitch. **Apoyo:** modelo de ejemplo. **Ampliacion:** plan de validacion con encuesta anonima.
+**Evidencia:** canvas y pitch. **Apoyo:** modelo de ejemplo. **Ampliación:** plan de validación con encuestá anonima.
