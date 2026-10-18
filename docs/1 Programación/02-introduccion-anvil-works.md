@@ -100,6 +100,10 @@ Vamos a poner el siguiente código.
 - `elif` significa "si no, y si...": se usa para encadenar más de dos casos.
 - `f"...{variable}..."` mete el valor de una variable dentro de un texto.
 
+Debería quedar así:
+
+![Poniendo el código](image-15.png)
+
 ### Errores frecuentes
 
 - `ValueError`: el TextBox está vacío o has escrito la coma decimal. Usa punto: 1.75.
