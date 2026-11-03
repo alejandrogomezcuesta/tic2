@@ -29,6 +29,7 @@ len(compra)                           # 3 (cuántos elementos hay)
 Para recorrer una lista con número de orden:
 
 ```python linenums="1"
+# Recorrer la lista
 texto = ""
 for i, producto in enumerate(compra):
   texto = texto + f"{i+1}. {producto}\n"
@@ -58,8 +59,24 @@ Fíjate que el código anterior hace muchas cosas en pocas líneas.
 
 
 <form action="https://www.jdoodle.com/api/redirect-to-post/python3-programming-online" method="post" target="_blank">
-    <textarea name="initScript" rows="8" cols="80">print("My code is on jdoodle!!")</textarea>
-    <br>
+    <textarea name="initScript" rows="8" cols="80">
+compra = ["pan", "leche", "huevos"]   # crear una lista
+
+print(f"Primer elemento de la lista compra, compra[0]: ", {compra[0]})
+print(f"Segundo elemento de la lista compra, compra[1]: ", {compra[1]})
+print(f"Último elemento de la lista compra, compra[-1]: ", {compra[-1]})
+
+num_elementos_compra = len(compra)
+print(f"Número de elementos de la lista compra, len(compra), ", {num_elementos_compra}
+
+# Recorrer la lista
+texto = ""
+for i, producto in enumerate(compra):
+  texto = texto + f"{i+1}. {producto}\n"
+
+# Ya puedes usar `texto` para ponerlo en un text area, por ejemplo.
+    </textarea>
+    <br/>
     <input type="submit" value="Send to JDoodle">
 </form>
 
