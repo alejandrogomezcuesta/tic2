@@ -8,9 +8,9 @@ Una lista guarda varios valores en orden y se puede modificar: es la estructura 
 
 ```python
 compra = ["pan", "leche", "huevos"]   # crear una lista
-compra[0]                          # "pan" (primer elemento)
-compra[-1]                         # "huevos" (último elemento)
-len(compra)                        # 3 (cuántos elementos hay)
+compra[0]                             # "pan" (primer elemento)
+compra[-1]                            # "huevos" (último elemento)
+len(compra)                           # 3 (cuántos elementos hay)
 ```
 
 | Operación | Qué hace | Ejemplo |
@@ -28,18 +28,46 @@ len(compra)                        # 3 (cuántos elementos hay)
 
 Para recorrer una lista con número de orden:
 
-```python
+```python linenums="1"
 texto = ""
 for i, producto in enumerate(compra):
-  texto += f"{i+1}. {producto}\n"
+  texto = texto + f"{i+1}. {producto}\n"
 
 # Ya puedes usar `texto` para ponerlo en un text area, por ejemplo.
 ```
 
+Fíjate que el código anterior hace muchas cosas en pocas líneas.
+
+- Línea 1. Crea la variable `texto` y se le pone como valor la cadena vacía.
+- Línea 2 `for i, producto in enumerate(compra):`, vamos a analizarla poco a poco:
+  - `for` indica que tenemos un bucle. Por tanto, la línea de debajo (la línea 3) se va a ejecutar varias veces.
+  - `enumerate(compra)` hace que por cada elemento de la lista `compra` se produzcan dos valores: el índice y el valor concreto de la lista. Es decir, `compra` tiene tres elementos `["pan", "leche", "huevos"]`. Por tanto, `enumerate(compra)` genera estos valores:
+    - `(0, "pan")`
+    - `(1, "leche")`
+    - `(2, "huevos")`
+  - `i, producto`: los dos valores anteriores se recogen en estas dos variables.
+- Línea 3. Se ejecuta tres veces. Cada vez, las variables `i` y `producto` valen tres cosas diferentes como acabamos de ver en el análisis de la orden anterior. En cada una de las veces se realiza lo siguiente:
+  - `{i+1}`: se toma el índice y se le suma uno. Este resultado es el que se muestra. Por tanto, se mostrará `1, 2 y 3`.
+  - `{producto}`. En cada iteración del bucle se muestra un element diferente: `["pan", "leche", "huevos"]`.
+  - `texto = texto + ···`. Hace que el resultado de una iteración se acumule en la siguiente. Por tanto, el resultado final es algo así:
+    ```text
+    1. pan
+    2. leche
+    3. huevos
+    ``` 
+
+
+<form action="https://www.jdoodle.com/api/redirect-to-post/python3-programming-online" method="post" target="_blank">
+    <textarea name="initScript" rows="8" cols="80">print("My code is on jdoodle!!")</textarea>
+    <br>
+    <input type="submit" value="Send to JDoodle">
+</form>
+
+
 ## 2. Listas en Anvil
 
 - Una lista que debe recordarse entre pulsaciones de botones se guarda como atributo del formulario: `self.tareas = []`, dentro de `__init__`, después de `self.init_components(**properties)`.
-- Un DropDown muestra una lista directamente: `self.drop_tareas.items = self.tareas`.
+- Un `DropDown` muestra una lista directamente: `self.drop_tareas.items = self.tareas`.
 - Para mostrar varias líneas, usa un TextArea con la casilla `enabled` desmarcada y escribe en su `.text`. El salto de línea se escribe `\n`.
 
 ## 3. Ejemplo guiado: lista de tareas
