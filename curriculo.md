@@ -130,7 +130,7 @@
 
 #### Desarrollo de los contenidos
 
-##### Lope González. [Tema 2. Ingeniería del software](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-2-ingenieria-de-software)
+##### Lope González. [Tema 2. Ingeniería del software](https://lopegonzalez.es/eso-y-bachillerato/tic-ii-2o-bachillerato/tema-2-ingenieria-del-software/)
 
 ##### Bernat
 * [Práctica 1. Tablero kanban](https://iesamachado.github.io/tic/temario/kanban.html)
