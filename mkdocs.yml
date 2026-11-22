@@ -1,5 +1,5 @@
 site_name: Tecnologías de la Información y la Comunicación 2
-site_description: TIC2
+site_description: Tecnologías de la Información y la Comunicación 2
 site_url: https://alejandrogomezcuesta.github.io/tic2/
 repo_url: https://github.com/alejandrogomezcuesta/tic2
 repo_name: alejandrogomezcuesta/tic2
@@ -73,5 +73,55 @@ extra:
 
 extra_javascript:
   - https://unpkg.com/mermaid@11/dist/mermaid.esm.min.mjs
+  - peliculas/javascripts/peliculas.js
 
-# MkDocs genera automáticamente la navegación a partir de docs/ al omitir nav:.
+extra_css:
+  - peliculas/stylesheets/peliculas.css
+
+nav:
+#  - Cine en cartelera: peliculas.md
+  - Contenidos:
+    - Introducción: index.md
+  - Segundo trimestre:
+#    - Listado de sesiones: ingenieria-software/sesiones.md
+    - 2 Ingenieria del software:
+        - 2.1 Elección de proyecto: ingenieria-software/analisis/01-proyectos.md
+#        - Historias de usuario: ingenieria-software/analisis/02-proyectos-e-historias-concretos.md
+#        - 📋 Backlog de Historias de Usuario: ingenieria-software/analisis/historias_de_usuario.md
+#        - "🚀 HITO 1 — SESIÓN 1: Nace nuestra Startup": ingenieria-software/analisis/hito1_sesión1.md
+#        - "🚀 HITO 1 — SESIÓN 2: Analizar a la competencia": ingenieria-software/analisis/hito1_sesión2.md
+#        - "📝 Guía de Clase: Sesión 3-4": ingenieria-software/analisis/hito1_sesión34.md
+#        - 📋 Historias concretas por proyecto:
+#            - Índice: ingenieria-software/analisis/proyectos-e-historias-concretos.md
+#            - 01 Cine: ingenieria-software/analisis/proyectos-con-historias-concretas/01-cine.md
+#            - 02 Peluquería / Barbería: ingenieria-software/analisis/proyectos-con-historias-concretas/02-peluqueria.md
+#            - 03 Pizzería / Restaurante: ingenieria-software/analisis/proyectos-con-historias-concretas/03-pizzeria.md
+#            - 04 Autobús / Tren: ingenieria-software/analisis/proyectos-con-historias-concretas/04-transporte.md
+#            - 05 Pistas de pádel / fútbol: ingenieria-software/analisis/proyectos-con-historias-concretas/05-pistas.md
+#            - 06 Clínica veterinaria / médica: ingenieria-software/analisis/proyectos-con-historias-concretas/06-clinica.md
+#            - 07 Festival de música: ingenieria-software/analisis/proyectos-con-historias-concretas/07-festival.md
+#            - 08 Hotel rural / camping: ingenieria-software/analisis/proyectos-con-historias-concretas/08-hotel.md
+#            - 09 Biblioteca / Material escolar: ingenieria-software/analisis/proyectos-con-historias-concretas/09-biblioteca.md
+#            - 10 Tours y excursiones: ingenieria-software/analisis/proyectos-con-historias-concretas/10-excursiones.md
+#            - 11 Gimnasio: ingenieria-software/analisis/proyectos-con-historias-concretas/11-gimnasio.md
+#    - hito3 Implementación:
+#        - 🗄️ Adaptación de Base de Datos en Mermaid: ingenieria-software/hito3 Implementación/adaptacion_base_de_datos_mermaid_11_proyectos.md
+#        - 📋 Adaptación Concreta de Historias de Usuario: ingenieria-software/hito3 Implementación/historias_de_usuario_11_proyectos.md
+#        - Modelo de Base de Datos para Cine: ingenieria-software/hito3 Implementación/modelo_base_datos_unico adaptado_cine.md
+#        - Modelo de Base de Datos Genérico: ingenieria-software/hito3 Implementación/modelo_base_datos_unico.md
+
+  - Primer trimestre:
+    - 1 Programacion:
+        - 1.1 Introducción a python: programacion/01-introduccion.md
+        - 1.2 Introducción a Anvil: programacion/02-introduccion-anvil-works.md
+        - 1.3 Ejercicios de Anvil: programacion/03-ejercicios-anvil-works.md
+        - 1.4 Listas en python con Anvil: programacion/04-listas.md
+        - 1.5 Ejercicios de listas con Anvil: programacion/05-ejercicios-de-listas.md
+#  - tortuga:
+#      - Índice: tortuga/index.md
+#      - Sesión 1 · Thonny, Turtle y primeros bucles: tortuga/sesion-1-thonny-y-primeros-bucles.md
+#      - Sesión 2 · range, listas y enumerate: tortuga/sesion-2-range-listas-enumerate.md
+#      - Sesión 3 · Bucles con condiciones y bucles anidados: tortuga/sesion-3-bucles-anidados.md
+#      - Sesión 4 · Funciones y proyecto integrador: tortuga/sesion-4-funciones-y-proyecto.md
+
+
